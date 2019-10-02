@@ -1,0 +1,5 @@
+baseURL = "https://parents-henri-bergson.com"
+languageCode = "fr-fr"
+title = "Association de parents d‘éléves de Henri Bergson"
+theme = "ananke"
+enableEmoji = true
