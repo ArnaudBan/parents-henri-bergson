@@ -16,5 +16,6 @@ draft: false
 <li>8 avril : Carnaval
 <li>26 juin : Fête de l'école
 </ul>
-
 </div>
+
+**Toutes les bonnes volontés sont les bienvenues**
