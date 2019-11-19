@@ -6,16 +6,17 @@ draft: false
 
 ## Calendrier
 
-<div class="tl-l">
-<ul>
-<li>3 octobre - 14h : Mise sous plis du matériel de vote pour les élections de parents d'élèves
-<li>11 octobre : Elections des parents d'éléves
-<li>7 novembre : Conseil d'école
-<li>17 mars : Conseil d'école
-<li>18 juin : Conseil d'école
-<li>8 avril : Carnaval
-<li>26 juin : Fête de l'école
-</ul>
-</div>
+<table class="w-100">
+    <thead>
+        <tr><th>Date</th><th>Evénement</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>14 décembre 2019</td><td>Stand aux parc de la roche</td></tr>
+        <tr><td>17 mars 2020</td><td>Conseil d'école</td></tr>
+        <tr><td>18 juin 2020</td><td>Conseil d'école</td></tr>
+        <tr><td>8 avril 2020</td><td>Carnaval</td></tr>
+        <tr><td>26 juin 2020</td><td>Fête de l'école</td></tr>
+    </tbody>
+</table>
 
 **Toutes les bonnes volontés sont les bienvenues**
